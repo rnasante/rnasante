@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Raymond
-- 👀 I’m interested in web/software development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on front-end projects
-- 📫 How to reach me: raymondniceasante@gmail.com
+Software dev crafting clean code, solving problems, and building impactful solutions
 
 <!---
 rnasante/rnasante is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
